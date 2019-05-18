@@ -12,5 +12,24 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
-});
+    return view('user/main');
+})->name('main');
+Route::get('/cart', function () {
+  return view('user/cart');
+})->name('cart');
+Route::get('/product', function () {
+  return view('user/product');
+})->name('product');
+Route::get('/category', function () {
+  return view('user/category');
+})->name('category');
+Route::get('/checkout', function () {
+  return view('user/checkout');
+})->name('checkout');
+Route::get('/contact', function () {
+  return view('user/contact');
+})->name('contact');
+
+Route::get('/admin', function () {
+  return view('admin/dashboard');
+})->name('admin');
