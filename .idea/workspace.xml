@@ -1747,6 +1747,7 @@
       <change afterPath="$PROJECT_DIR$/public/vendor/jquery/jquery.slim.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/vendor/jquery/jquery.slim.min.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/vendor/jquery/jquery.slim.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/admin/dashboard.blade.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/resources/views/user/cart.blade.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/resources/views/user/category.blade.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/resources/views/user/checkout.blade.php" afterDir="false" />
@@ -1780,9 +1781,22 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/admin/dashboard.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="555" column="22" selection-start-line="555" selection-start-column="22" selection-end-line="555" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/views/admin/dashboard.php">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -1808,11 +1822,12 @@
         <option value="$PROJECT_DIR$/resources/views/user/category.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/user/checkout.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/user/contact.blade.php" />
-        <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/resources/views/user/partials/header.blade.php" />
         <option value="$PROJECT_DIR$/resources/admin/scss/style.scss" />
         <option value="$PROJECT_DIR$/resources/sass/app.scss" />
         <option value="$PROJECT_DIR$/webpack.mix.js" />
+        <option value="$PROJECT_DIR$/resources/views/admin/dashboard.blade.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
       </list>
     </option>
   </component>
@@ -1931,6 +1946,18 @@
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="shop-sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-sell" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-sell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-sell" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -1985,24 +2012,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558159193891</updated>
-      <workItem from="1558159195072" duration="12547000" />
+      <workItem from="1558159195072" duration="13250000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12547000" />
+    <option name="totallyTimeSpent" value="13250000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24958494" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24958494" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.33004385" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.33004385" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -2177,13 +2204,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/user/cart.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -2277,8 +2297,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/admin/dashboard.php">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/dashboard.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="555" column="22" selection-start-line="555" selection-start-column="22" selection-end-line="555" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
